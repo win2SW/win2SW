@@ -38,27 +38,27 @@
 <h4>📃 주요 프로젝트</h4>
 
 <h5>AWS를 이용하여 퍼블릭 클라우드 생성</h5>
-📁 <b> 파일 : </b> <a href="https://github.com/win2SW/Project/blob/05c07cfc2ce6cfc883a26012656f5d162546eb22/Project_AWS_%EC%9C%A4%EC%8A%B9%EC%9B%90.pdf">AWS Project</a>
+📁 <b> 파일 : </b> <a href="https://github.com/win2SW/Project/blob/05c07cfc2ce6cfc883a26012656f5d162546eb22/Project_AWS_%EC%9C%A4%EC%8A%B9%EC%9B%90.pdf">AWS Project</a><br>
 
-🛠️ <b> 작업 툴 : </b> AWS Management Console
-🔍 <b> 내용 요약 : </b> 아키텍처 아이콘을 이용하여 구성도를 제작하고 그에 맞는 VPC 설정, EC2 인스턴스를 생성하고 모니터링
+🛠️ <b> 작업 툴 : </b> AWS Management Console<br>
+🔍 <b> 내용 요약 : </b> 아키텍처 아이콘을 이용하여 구성도를 제작하고 그에 맞는 VPC 설정, EC2 인스턴스를 생성하고 모니터링<br>
 💻 <b> 주요 역할 : </b> VPC 설정과 인스턴스를 생성하고 SNS 주제 및 구독, 보안 그룹을 생성
 <br><br>
 
 <h5>Kubernetes 리소스 생성</h5>
-📁 <b> 파일 : </b> <a href="https://github.com/win2SW/Project/blob/05c07cfc2ce6cfc883a26012656f5d162546eb22/Project_K8S_%EC%9C%A4%EC%8A%B9%EC%9B%90.pdf">K8S Project</a>
+📁 <b> 파일 : </b> <a href="https://github.com/win2SW/Project/blob/05c07cfc2ce6cfc883a26012656f5d162546eb22/Project_K8S_%EC%9C%A4%EC%8A%B9%EC%9B%90.pdf">K8S Project</a><br>
 
-🛠️ <b> 작업 툴 : </b> VMWare, XShell
-🔍 <b> 내용 요약 : </b> 실제 CKA(Certified Kubernetes Administrator) 문제들을 풀어보며 Kubernetes의 이미지 자동으로 배포, 스케일링 및 배포를 하고 외부에서의 서비스 접근 설정, 모니터링, 트러블 슈팅과 같은 주요 기능들을 학습
-💻 <b> 주요 역할 : </b> Role과 ClusterRole을 생성 후 특정 NameSpace에 있는 Service Account에 바인딩, Static Pod 생성 후 Pod의 로그 모니터링 및 파일에 저장, 특정 노드의 트러블 슈팅 및 클러스터 업그레이드. 
+🛠️ <b> 작업 툴 : </b> VMWare, XShell<br>
+🔍 <b> 내용 요약 : </b> 실제 CKA(Certified Kubernetes Administrator) 문제들을 풀어보며 Kubernetes의 이미지 자동으로 배포, 스케일링 및 배포를 하고 외부에서의 서비스 접근 설정, 모니터링, 트러블 슈팅과 같은 주요 기능들을 학습<br>
+💻 <b> 주요 역할 : </b> Role과 ClusterRole을 생성 후 특정 NameSpace에 있는 Service Account에 바인딩, Static Pod 생성 후 Pod의 로그 모니터링 및 파일에 저장, 특정 노드의 트러블 슈팅 및 클러스터 업그레이드.
 <br><br>
 
 <h5>AWS EKS를 활용한 쿠버네티스 기반 애플리케이션 구축 및 관리</h5>
-📁 <b> 파일 : </b> <a href="https://github.com/win2SW/Project/blob/05c07cfc2ce6cfc883a26012656f5d162546eb22/Project_EKS_%EC%9C%A4%EC%8A%B9%EC%9B%90.pdf">EKS Project</a>
+📁 <b> 파일 : </b> <a href="https://github.com/win2SW/Project/blob/05c07cfc2ce6cfc883a26012656f5d162546eb22/Project_EKS_%EC%9C%A4%EC%8A%B9%EC%9B%90.pdf">EKS Project</a><br>
 
-🛠️ <b> 작업 툴 : </b> AWS Management Console, Kubernetes, XShell
-🔍 <b> 내용 요약 : </b> EKS를 기반으로 한 자동화된 관리 시스템 구축
-💻 <b> 주요 역할 : </b> 클러스터 자동화 관리, CI/CD 파이프라인 구축
+🛠️ <b> 작업 툴 : </b> AWS Management Console, Kubernetes, XShell<br>
+🔍 <b> 내용 요약 : </b> EKS를 기반으로 한 자동화된 관리 시스템 구축<br>
+💻 <b> 주요 역할 : </b> 클러스터 자동화 관리, CI/CD 파이프라인 구축<br>
 
 ---
 
