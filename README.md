@@ -2,16 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Seungwon's%20github&fontAlign=50&fontAlignY=40" />
 </div>
 
-![Seungwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=win2SW&show_icons=true&theme=radical)
 <!--
 **win2SW/win2SW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<!--타이틀 부분-->
-<div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
-</div>
-
-<!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
@@ -77,3 +70,6 @@
       src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
+
+
+![Seungwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=win2SW&show_icons=true&theme=radical)
