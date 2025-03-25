@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Seungwon's%20github&fontAlign=50&fontAlignY=40" />
 </div>
 
+![Seungwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <!--
 **win2SW/win2SW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
